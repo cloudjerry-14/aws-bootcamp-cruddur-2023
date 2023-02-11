@@ -33,6 +33,11 @@ Napkin design
 
 Designing CICD pipeline for Cat App:
 
+           Napkin diagram for CICD of 
+      <img width="532" alt="image" src="https://user-images.githubusercontent.com/71233890/218280561-b7eb1c22-b468-4981-8a10-2f642083962f.png">
+
+           Logical diagram for CICD 
+
 <img width="617" alt="image" src="https://user-images.githubusercontent.com/71233890/218280242-bee7a04a-3be4-40cc-8c71-04c21f6c2e9d.png">
 
 
