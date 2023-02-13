@@ -34,14 +34,25 @@ Napkin design
 Designing CICD pipeline for Cat App:
 
            Napkin diagram for CICD of 
-           
+ 
+ 
 <img width="532" alt="image" src="https://user-images.githubusercontent.com/71233890/218280561-b7eb1c22-b468-4981-8a10-2f642083962f.png">
 
            Logical diagram for CICD 
+
+ Link to the diagram : https://lucid.app/lucidchart/12527a1b-50f1-44f8-870e-dd41e91d4b52/edit?viewport_loc=-355%2C462%2C2048%2C862%2CA-jw~WsuqJQx&invitationId=inv_ec33f434-40aa-49ab-8f60-2df6ef9ece0b
 
 <img width="617" alt="image" src="https://user-images.githubusercontent.com/71233890/218280242-bee7a04a-3be4-40cc-8c71-04c21f6c2e9d.png">
 
 
 
+
+
+Tasks Tracker :
+
+1. Create an IAM User and generated the credentials.
+2. Added MFA for the IAM user.
+3. Created a spend budget on AWS.
+4. Created a billing alarm for my spend budget on aws.
 
 
