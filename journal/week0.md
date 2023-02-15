@@ -4,7 +4,7 @@
 #### 1. Monolithic Architecture : 
 A monolithic architecture is a singular, large computing network with one code base that couples all of the business concerns together.
                             
-                          Refer the below diagram to understand monolithic architecture of a Shopping Application with Inventory, UI, and Payment services all bundled together.
+*Refer the below diagram to understand monolithic architecture of a Shopping Application with Inventory, UI, and Payment services all bundled together.
  
 
 <img width="374" alt="image" src="https://user-images.githubusercontent.com/71233890/218277610-ea438664-d204-4e02-8107-02c9007d92c0.png">
@@ -12,7 +12,7 @@ A monolithic architecture is a singular, large computing network with one code b
 #### 2. Microservices Architecture :
 A microservice is an architectural method that relies on a series of independently deployable services. These services have their own business logic and database with a specific goal. Updating, testing, deployment, and scaling occur within each service. Microservices decouple major business, domain-specific concerns into separate, independent code bases.
 
-                      Refer the below diagram to understand microservice architecture of a Shopping Application with Inventory, UI, and Payment services which decouple all major business, domain-specific concerns into separate, independent code bases which function independently of each other and contribute to the overall whole app.
+*Refer the below diagram to understand microservice architecture of a Shopping Application with Inventory, UI, and Payment services which decouple all major business, domain-specific concerns into separate, independent code bases which function independently of each other and contribute to the overall whole app.
 
 <img width="453" alt="image" src="https://user-images.githubusercontent.com/71233890/218277568-ccc53a00-6b58-4039-a412-fc58e8e471ce.png">
 
@@ -31,15 +31,15 @@ Create a highly availble and scalable micro blogging platform with features incl
 
 ## Tasks Tracker :
 
-1. Created an IAM User and generated the credentials.
-2. Added MFA for the IAM user.
-3. Created a spend budget on AWS.
+### 1. Created an IAM User and generated the credentials.
+### 2. Added MFA for the IAM user.
+### 3. Created a spend budget on AWS.
   <img width="806" alt="image" src="https://user-images.githubusercontent.com/71233890/219181851-69e4c9a7-ec0d-4258-bd4c-df7edc568450.png">
 
-5. Created a billing alarm for my spend budget on aws.
+### 4. Created a billing alarm for my spend budget on aws.
   <img width="830" alt="image" src="https://user-images.githubusercontent.com/71233890/219190136-3152e0b7-8111-4a2e-aa66-e2a5171f6118.png">
 
-7. Created napking design and logical design diagrams of CRUDDUR App
+### 5. Created napking design and logical design diagrams of CRUDDUR App
   #### Napkin design CRUDDUR
 
 <img width="710" alt="image" src="https://user-images.githubusercontent.com/71233890/218280148-6ad0c6bf-b7cd-4868-bf52-e99d6a981670.png">
@@ -47,7 +47,7 @@ Create a highly availble and scalable micro blogging platform with features incl
 ### Logical Diagram for CRUDDUR
 
 
-8. Played around the AWS console and cloudshell
+### 6. Played around the AWS console and cloudshell
   + I was playing with cloudshell, I have created a directory with my name and a txt file.
   <img width="866" alt="image" src="https://user-images.githubusercontent.com/71233890/219174422-9a799c08-3d1a-49cd-84a2-ef41d10c5b2a.png">
   
@@ -56,8 +56,8 @@ Create a highly availble and scalable micro blogging platform with features incl
   
 <img width="892" alt="image" src="https://user-images.githubusercontent.com/71233890/219175196-e2f0cd67-130b-4c8b-a66b-00578bbdf83e.png">
 
-7. Installed aws CLI on my local and configured the credentials.
-8. Designing CICD pipeline for Cat App:
+### 7. Installed aws CLI on my local and configured the credentials.
+### 8. Designing CICD pipeline for Cat App:
   #### Napkin diagram for CICD of 
  
  
