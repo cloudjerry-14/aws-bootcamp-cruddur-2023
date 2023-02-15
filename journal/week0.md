@@ -54,5 +54,8 @@ Tasks Tracker :
 2. Added MFA for the IAM user.
 3. Created a spend budget on AWS.
 4. Created a billing alarm for my spend budget on aws.
+5. Created napking design and logical design diagrams
+6. Played around the AWS console
+
 
 
