@@ -58,7 +58,17 @@ Create a highly availble and scalable micro blogging platform with features incl
 3. Created a spend budget on AWS.
 4. Created a billing alarm for my spend budget on aws.
 5. Created napking design and logical design diagrams
-6. Played around the AWS console
+6. Played around the AWS console and cloudshell
+  + I was playing with cloudshell, I have created a directory with my name and a txt file.
+  <img width="866" alt="image" src="https://user-images.githubusercontent.com/71233890/219174422-9a799c08-3d1a-49cd-84a2-ef41d10c5b2a.png">
+  
+  + I got to know that cloudshell comes with preinstalled aws CLI, Python, git
+  + I have then deleted the file and directory
+  
+<img width="892" alt="image" src="https://user-images.githubusercontent.com/71233890/219175196-e2f0cd67-130b-4c8b-a66b-00578bbdf83e.png">
+
+7. Installed aws CLI on my local and configured the credentials.
+
 
 
 
