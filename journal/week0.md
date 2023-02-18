@@ -46,6 +46,13 @@ Create a highly availble and scalable micro blogging platform with features incl
 
 ### Logical Diagram for CRUDDUR
 
+<img width="804" alt="image" src="https://user-images.githubusercontent.com/71233890/219873679-5ecb756a-f066-43f5-b78c-d55bc719c5ee.png">
+
+
+[Lucid Chart Link](https://lucid.app/lucidchart/12527a1b-50f1-44f8-870e-dd41e91d4b52/edit?viewport_loc=-75%2C-242%2C2047%2C862%2CJOkw5wv32Ane&invitationId=inv_ec33f434-40aa-49ab-8f60-2df6ef9ece0b)
+
+
+
 
 ### 6. Played around the AWS console and cloudshell
   + I was playing with cloudshell, I have created a directory with my name and a txt file.
