@@ -244,7 +244,7 @@ run the script to build the image and start the container in background
 
 Verify container is runnng 
 ```
-docker ps
+sudo docker ps
 
 ```
 ![image](https://user-images.githubusercontent.com/71233890/221687282-a8af9b37-0b95-47bc-b520-84d02611f82d.png)
