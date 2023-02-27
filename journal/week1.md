@@ -214,3 +214,39 @@ docker push cloudjerry14/imagepush
 <img width="960" alt="image" src="https://user-images.githubusercontent.com/71233890/221678199-d6bbd245-9f95-4a60-8c33-251628c0d1f6.png">
 
 
+#### Launching an EC2 instance, installing docker, creating a script that will build the image and run the container
+update packages
+```
+sudo apt-get update
+```
+install docker
+```
+sudo apt-get install docker.io
+```
+
+![image](https://user-images.githubusercontent.com/71233890/221687197-d58f9346-625d-4c94-b7ed-8e415d3b2054.png)
+
+cd into backend-app
+```
+cd aws-bootcamp-cruddur-2023/backend-flask/
+```
+Give executable permission to our script file
+```
+chmod +x run.sh
+```
+run the script to build the image and start the container in background
+
+```
+./run.sh
+
+```
+![image](https://user-images.githubusercontent.com/71233890/221687307-ae72c506-1a0a-4f95-8ede-b6171db30cd6.png)
+
+Verify container is runnng 
+```
+docker ps
+
+```
+![image](https://user-images.githubusercontent.com/71233890/221687282-a8af9b37-0b95-47bc-b520-84d02611f82d.png)
+
+
