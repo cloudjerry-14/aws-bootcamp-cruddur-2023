@@ -181,3 +181,36 @@ docker compose up
 #### Notification Page :
 
 ![image](https://user-images.githubusercontent.com/71233890/221431155-9330bcff-9846-4f6d-8a65-74928bdae58e.png)
+
+#### Vulnerability testing using Snyk
+<img width="782" alt="image" src="https://user-images.githubusercontent.com/71233890/221670275-8f89fae7-9f02-43af-82e8-0614cd2e9f36.png">
+
+### Pushing images to Docker registry (DockerHub)
+
+login to docker registry 
+```
+docker login
+```
+
+Build the image with registry tag 
+```
+docker build -t cloudjerry14/imagepush .
+```
+![image](https://user-images.githubusercontent.com/71233890/221677744-92af291d-1c63-45eb-81bc-23f3a7e5fbd1.png)
+
+verify image is built
+```
+docker images
+```
+
+push to dockerhub
+```
+docker push cloudjerry14/imagepush
+```
+![image](https://user-images.githubusercontent.com/71233890/221677788-f1d19a3a-62b7-4804-850d-7283723ceaba.png)
+
+#### Dockerhub
+
+<img width="960" alt="image" src="https://user-images.githubusercontent.com/71233890/221678199-d6bbd245-9f95-4a60-8c33-251628c0d1f6.png">
+
+
